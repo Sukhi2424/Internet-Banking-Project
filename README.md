@@ -173,4 +173,5 @@ Backend (internet-banking): Standard Spring Boot project structure with controll
 
 Frontend (internet-banking-ui): Standard Vite React project structure. All components and layout files are organized under the src folder.
 
-Developed by [Your Name] - [Date, e.g., October 2025]
+Developed by Sukhi M
+
