@@ -6,7 +6,7 @@ import {
     Paper, Typography, TextField, Box, Button, CircularProgress, Alert
 } from '@mui/material';
 
-const api = axios.create({ baseURL: 'http://localhost:8080/api' });
+const api = axios.create({ baseURL: '/api' });
 
 const TermAccountForm = ({ customerId }) => {
     const [formData, setFormData] = useState({

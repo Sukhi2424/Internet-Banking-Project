@@ -7,7 +7,7 @@ import {
     CircularProgress, Alert, Box, Avatar 
 } from '@mui/material';
 
-const api = axios.create({ baseURL: 'http://localhost:8080/api' });
+const api = axios.create({ baseURL: '/api' });
 
 const ProfilePage = ({ user, onProfileUpdate }) => {
     // We use a local state for the form so we can cancel edits

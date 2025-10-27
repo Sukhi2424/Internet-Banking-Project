@@ -22,7 +22,7 @@ import {
 // Register Chart.js components
 ChartJS.register(CategoryScale, LinearScale, BarElement, Title, Tooltip, Legend);
 
-const api = axios.create({ baseURL: 'http://localhost:8080/api' });
+const api = axios.create({ baseURL: '/api' });
 
 // A small, reusable component for our stat cards
 const StatCard = ({ title, value, icon, color }) => (
