@@ -1,21 +1,12 @@
-# React + Vite
-# 🏦 Internet Banking UI - Frontend Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-> Modern, responsive web interface for the Internet Banking System built with React, Material-UI, and Vite.
+# 🏦 Internet Banking Project
 
-Currently, two official plugins are available:
-## 📸 Screenshots
+### 🔐 Home Page
+![Login Page]<img width="1914" height="1021" alt="image" src="https://github.com/user-attachments/assets/073f359c-b75a-4f67-9889-d89eb85f01ad" />
+*Home page*
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-### 🏠 Home Page
-![Home Page](screenshots/home-page.png)
-*Modern landing page with glassmorphism design and animated elements*
-
-## React Compiler
 ### 🔐 Login Page
-![Login Page](screenshots/login-page.png)
+![Home Page](screenshots/login-page.png)
 *Secure login interface with demo credentials displayed*
 
 The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
