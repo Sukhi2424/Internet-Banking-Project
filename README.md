@@ -2,30 +2,28 @@
 # 🏦 Internet Banking Project
 
 ### 🔐 Home Page
-![Login Page]<img width="1914" height="1021" alt="image" src="https://github.com/user-attachments/assets/073f359c-b75a-4f67-9889-d89eb85f01ad" />
+<img width="1914" height="1021" alt="image" src="https://github.com/user-attachments/assets/073f359c-b75a-4f67-9889-d89eb85f01ad" />
 *Home page*
 
 ### 🔐 Login Page
-![Home Page](screenshots/login-page.png)
+<img width="1918" height="1026" alt="image" src="https://github.com/user-attachments/assets/73cd4174-6b70-4f66-b384-1bd1264085e8" />
 *Secure login interface with demo credentials displayed*
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 ### 📝 Registration Page
-![Registration Page](screenshots/registration-page.png)
+<img width="1914" height="1027" alt="image" src="https://github.com/user-attachments/assets/b797aac8-7a33-4877-aaa3-8e6d42ab6eb8" />
 *User-friendly registration form with real-time validation*
 
 ## Expanding the ESLint configuration
 ### 📊 Customer Dashboard
-![Customer Dashboard](screenshots/customer-dashboard.png)
+<img width="1913" height="1022" alt="image" src="https://github.com/user-attachments/assets/9aa7d5fb-bcbd-40ae-a49b-14fd38490e0b" />
 *Account overview with balance cards and transaction history*
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 ### 💰 Transactions Page
-![Transactions Page](screenshots/transactions-page.png)
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/bfbb546b-7b07-469a-8256-ea4c8217e1de" />
 *Deposit and withdrawal interface with account selection*
 
 ### 👥 Admin Dashboard
-![Admin Dashboard](screenshots/admin-dashboard.png)
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/b0e47444-a996-4dc5-aaed-9e28c9c3aa64" />
 *Administrative interface with analytics and user management*
 
 ## ✨ Features
@@ -280,9 +278,6 @@ npm run build
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
@@ -290,13 +285,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - GitHub: [@Sukhi2424](https://github.com/Sukhi2424)
 - Project: [Internet Banking System](https://github.com/Sukhi2424/Internet-Banking-Project)
 
-## 🙏 Acknowledgments
 
-- Material-UI for the excellent component library
-- Vite for the amazing development experience
-- React team for the powerful framework
-- All open-source contributors
-
----
-
-*Built with ❤️ using React, Material-UI, and modern web technologies*
