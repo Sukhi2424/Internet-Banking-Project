@@ -314,8 +314,8 @@ const LoginPage = ({ onLogin }) => {
                 Demo Credentials:
               </Typography>
               <Typography variant="body2" sx={{ fontSize: '0.875rem', color: 'text.secondary' }}>
-                Customer: demo@customer.com / password<br />
-                Admin: demo@admin.com / password
+                Customer: user4@test.com / User@4<br />
+                Admin: admin@test.com / admin
               </Typography>
             </Box>
           </Box>
